@@ -1,0 +1,12 @@
+1. Inicio
+2. Pedir el precio del CPU
+3. Leer el precio del CPU
+4. Pedir el precio de la pantalla
+5. Leer el precio de la pantalla
+6. Pedir el precio del raton
+7. Leer el precio del raton
+8. Pedir el precio del teclado
+9. Leer el precio del teclado
+10. Calcular la sumatoria entre los valores de CPU, pantalla, raton y teclado
+11. Mostrar el valor total de la sumatoria
+12. Subir 
