@@ -1,0 +1,14 @@
+1. Inicio.
+2. Pedir un lado del cuadrado.
+3. Leer un lado del cuadrado.
+4. Pedir la altura del triangulo.
+5. Leer la altura del truangulo.
+6. Calcular el area de un tringulo y multiplicarlo por 5, donde el area del triangulo es el lado del cuadrado por la altura del triangulo dividido para dos.
+7. Calcular el area del cuadrado, donde el area del cuadrado es igual al lado del cuadrado por el lado del cuadrado.
+8. Calcular la sumatoria del resultado del area del triangulo y el area del cuadrado.
+9. Mostrar el resultado del poligono.
+10. Fin
+
+Ecuación: areaTri=((ladoCuadrado*alturaTriangulo)/2)*5
+Ecuación: areaCua=ladoCuadrado*ladoCuadrado
+Ecuación: poligono=areaCua+areaTri
