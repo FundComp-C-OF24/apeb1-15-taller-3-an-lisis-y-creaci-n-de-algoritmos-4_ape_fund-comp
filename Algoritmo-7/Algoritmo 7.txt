@@ -1,0 +1,11 @@
+1. Inicio
+2. Pedir la edad.
+3. Leer la edad.
+4. Pedir los kilovatios consumidos en el mes
+5. Calcular los kilovatios consumidos en el mes por el valor de kilovatio/hora
+6. Descontar el diez por ciento en caso de ser mayor a 65 años.
+7. Mostrar el valor final a pagar.
+8. Fin
+
+Ecuación: valor=kilovat*kilovatHora
+Ecuación2: valor=(kilovat*kilovatHora)*0,10
