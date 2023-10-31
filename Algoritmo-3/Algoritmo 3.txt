@@ -1,0 +1,7 @@
+1. Inicio
+2. Pedir numero
+3. Leer numero
+4. Comprobar que el numero este entre 2 y 6, en caso de no ser así, indicar que se encuentra fuera de los limites.
+5. Multiplicar el numero ingresado por los numeros del 1 al 12.
+6. Mostrar los numeros multiplicados del 1 al 12.
+7. Fin
