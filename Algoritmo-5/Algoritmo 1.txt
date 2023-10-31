@@ -10,3 +10,5 @@
 10. Calcular la sumatoria entre los valores de CPU, pantalla, raton y teclado
 11. Mostrar el valor total de la sumatoria
 12. Fin
+
+Ecuación: precioPC=CPU+pantalla+ratón+teclado
