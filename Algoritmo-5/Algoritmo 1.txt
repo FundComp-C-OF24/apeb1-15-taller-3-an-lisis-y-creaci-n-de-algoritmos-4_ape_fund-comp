@@ -9,4 +9,4 @@
 9. Leer el precio del teclado
 10. Calcular la sumatoria entre los valores de CPU, pantalla, raton y teclado
 11. Mostrar el valor total de la sumatoria
-12. Subir 
+12. Fin

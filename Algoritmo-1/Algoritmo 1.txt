@@ -1,0 +1,10 @@
+1. Inicio
+2. Pedir la altura del triangulo.
+3. Leer la altura del triangulo.
+4. Pedir la base del triangulo.
+5. Leer la base del triangulo.
+6. Calcular el area del triangulo que va a ser igual a la base del triangulo por la altura y dividido para dos.
+7. Mostrar el resultado.
+8. Fin.
+
+Ecuación: areaTriangulo= (longitudTriangulo*alturaTriangulo)/2
