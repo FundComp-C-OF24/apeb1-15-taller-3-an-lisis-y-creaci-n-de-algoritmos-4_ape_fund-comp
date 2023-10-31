@@ -5,3 +5,5 @@
 5. Multiplicar el numero ingresado por los numeros del 1 al 12.
 6. Mostrar los numeros multiplicados del 1 al 12.
 7. Fin
+
+Ecuación: numeroResultado=numero*(1,2,3,4,5,6,7,8,9,10,11,12)
